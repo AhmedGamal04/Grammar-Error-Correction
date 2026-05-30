@@ -126,7 +126,7 @@ T5 is the most robust to this noise due to its pretrained grammatical knowledge.
 
 ```
 ├── Grammar_Error_Correction_Project_GEC.ipynb   # Full pipeline
-├── report.pdf                                    # Written report
+├── Grammar_Error_Correction_Report.pdf                                    # Written report
 ├── images/                                       # All plots
 └── README.md
 ```
